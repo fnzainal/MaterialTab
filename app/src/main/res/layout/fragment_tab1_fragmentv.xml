@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.zainalfahrudin.materialtab.fragment.Tab1Fragment">
+
+
+
+    <TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tab_1"
+        android:layout_marginTop="200dp"
+        android:padding="20dp"
+        android:id="@+id/txt_content_tab_2"
+        android:gravity="center"/>
+
+</FrameLayout>
